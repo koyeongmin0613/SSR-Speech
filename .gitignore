@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+data/
+models/
+pretrained_models/*.pth
+pretrained_models/*.th
+pretrained_models/*.bin
+*.wav
